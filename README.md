@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **Amankumar709106@gmail.com**
 
