@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **Amankumar709106@gmail.com**
+- 📫 How to reach me **amankumar709106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
